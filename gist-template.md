@@ -5,10 +5,15 @@
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+ Regex, short for regular expression, is a powerful tool used for pattern matching and manipulation of text. It is a sequence of characters that defines a search pattern. Regex allows you to search for and match specific patterns within strings of text, making it a valuable tool for tasks such as data validation, text parsing, and text manipulation.
+
+A regular expression consists of a combination of literal characters and special characters, which define the pattern to be matched. Special characters can represent a wide range of concepts, such as anchors (to match specific positions in the text), quantifiers (to specify the number of occurrences), character classes (to match sets of characters), and more.
+
+Regex can be used in various programming languages, text editors, and command-line tools. It provides a concise and flexible way to search, extract, and transform text based on specific patterns, making it an essential skill for many developers and data analysts.
+
 
 ## Table of Contents
-
+-summary
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
